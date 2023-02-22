@@ -15,7 +15,7 @@ Junior frontend разработчик
 Свяжитесь со мной
 ---------------------------
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>Telegram](https://t.me/Dmitii_Vasnev) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='20'>Email](dmitriy_vasnev@mail.ru) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>LinkedIn](https://www.linkedin.com/in/VasnevDA)
+[Telegram](https://t.me/Dmitii_Vasnev) | <dmitriy_vasnev@mail.ru> | [LinkedIn](https://www.linkedin.com/in/VasnevDA)
 
 Мои навыки
 ---------------------------
